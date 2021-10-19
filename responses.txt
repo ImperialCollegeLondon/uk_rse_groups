@@ -1,0 +1,65 @@
+UCL
+
+30 FTE and growing, breakdown varies over time depending on need, all open-ended, and indirects mean cost recovery >100% (our grants subsidise other activities in the department, and free-at-point-of-use RSE services for researchers)
+
+Southampton
+
+6 RSEs (+2 imminently).  All undertake consultancy + training. 2 (+1 imminently) on open ended, other fixed term.  Cost recovery is 100%.
+
+Bristol
+
+10.5 RSEs. All undertake training. 8.5 on open-ended (subject to funding) contracts and must be fully covered (100% costed as PDRAs on grants - the group is a "postdoc pool" with RSEs costed for a minimum of 6-months/50%). 2 are core-funded (both do consultancy and training); 1 of those is a "free-at-the-point-of-use" RSE who does consultancy and is our loss-leader to get new business and pick up any slack. The other is myself, as the uni recognised that managing the group needs to be core funded. I can be costed on grants so do get some of my salary covered (though there is no expectation of a level). We grow at a rate of approximately 2 RSEs per year.
+
+Exeter
+
+"4 RSEs (+1 more in Dec).
+All on projects, with training/teaching responsibilities (still ramping up on this, but will likely be a couple of days a month in total)
+All on open-ended contracts
+Aiming for 70-80% cost recovery in the original business case, actual figures TBD"
+
+Manchester
+
+26 FTE of RSE with 8 more approved. All open ended. Breakdown is fluid based on work. All take part in training with 1 who focusses and coordinates. cost recovery target 100% but training, apps support and consultancy/loss leaders are core funded and act as the buffer/contingency. Seeing as there's never any shortage on projects we always come in well over 100% in practice and do little-to-no loss leaders as a result.
+
+Sheffield
+
+"~13
+All on projects with some 50% on Tier 2 support, small amounts of training and other free at point of use
+All on open ended
+Aiming for ~80%"
+
+Oxford
+
+7 RSEs (+2 hopefully soon), 85% projects / 15% teaching (teaching varies with demand, but its mostly via a project we have with a DTC), all on fixed-term 1 year contracts that get renewed each year, cost recovery is > 100% thanks to overheads
+"this is excluding the Cambridge Open Exascale Lab, which is just ramping up, so covers the core team including one new starter)
+
+Cambridge
+
+Total number of FTEs: 6
+projects/consultancy: 6 , teaching/training: 0  (although we are pursuing Nvida and Intel certifications and will be doing more training in the future)
+open ended: 5, fixed term: 1 (the COEL will skew that because all those posts will be 2 yr fixed term)
+Cost recovery: 90%"
+
+Newcastle
+
+"15 FTE total
+13 FTE chargeable to projects, 1.5 for management and 0.5 for training coordinator
+roughly 2/3 on fixed term, the rest open-ended. This is to do with length of service; after a period of time staff transition to open-ended, this is a University wide policy.
+Cost recovery target is 80% but in reality we recover 100% because there's always work to be done. Different from most other groups, we run a facility model with a flat day rate to recover our true cost"
+
+Birmingham
+
+"Total number of FTEs: 11
+Breakdown of FTE's according to projects/consultancy (6 FTE) , teaching/training (~0.5 FTE) and other (~3 FTE HPC etc. support, ~1 FTE automation/systems/process support, ~0.5 FTE management)
+Breakdown of FTE's according to open-ended (7 FTE) or fixed-term contract (4 FTE - with hopes to make them all open-ended)
+If relevant, team's cost recovery target (%): We aim to recover the cost of 2.5 FTE, and tend to do more than this as we do some funded work from others in the team too."
+
+Durham
+
+"Total number of FTEs   3.8  - Currently recruiting additional 4 RSEs
+Breakdown of FTE's according to projects/consultancy, teaching/training and other
+Approximately 80% on projects 5% training 15% on other
+Breakdown of FTE's according to open-ended or fixed-term contract
+4 on open-ended contract. New recruits on 3-year contract with the objective that they will become permanent before contract ends.
+If relevant, team's cost recovery target (%)
+3 x FTE are core funded but objective that all contracts are funded for cost recovery to allow additional recruitment"
